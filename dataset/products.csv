@@ -1,0 +1,13 @@
+﻿product_id,product_name,category,price,stock_quantity
+P001,Laptop,Electronics,55000,15
+P002,Mobile Phone,Electronics,40000,20
+P003,Headphones,Electronics,2000,50
+P004,Smart Watch,Electronics,5000,35
+P005,Office Chair,Furniture,2000,25
+P006,Sofa,Furniture,30000,10
+P007,Table,Furniture,12000,12
+P008,Bookshelf,Furniture,9000,18
+P009,Jacket,Clothing,2500,30
+P010,T-Shirt,Clothing,700,60
+P011,Shoes,Clothing,3500,40
+P012,Jeans,Clothing,2000,45

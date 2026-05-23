@@ -1,0 +1,16 @@
+﻿user_id,user_name,gender,city,registration_date
+U001,Ayesha Khan,Female,Bangalore,05-01-2025
+U002,Ravi Kumar,Male,Mumbai,08-01-2025
+U003,Neha Sharma,Female,Delhi,15-01-2025
+U004,Imran Ali,Male,Hyderabad,02-02-2025
+U005,Priya Reddy,Female,Kolkata,10-02-2025
+U006,John Mathew,Male,Ahmedabad,18-02-2025
+U007,Sana Shaik,Female,Chennai,01-03-2025
+U008,Vikram Singh,Male,Lucknow,12-03-2025
+U009,Farah Khan,Female,Bhubaneswar,20-03-2025
+U010,Kiran Rao,Male,Pune,01-04-2025
+U011,Aman Verma,Male,Gurgaon,10-04-2025
+U012,Zoya Khan,Female,Mysore,18-04-2025
+U013,Rohit Mehta,Male,Jaipur,05-05-2025
+U014,Anjali Nair,Female,Kochi,14-05-2025
+U015,Syed Ali,Male,Patna,25-05-2025
